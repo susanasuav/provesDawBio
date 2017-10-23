@@ -16,6 +16,8 @@ public class JavaApplication6 {
      */
     public static void main(String[] args) {
         System.out.println("Hello two");
+        System.out.println("Hello to my class");
+        
     }
     
 }
